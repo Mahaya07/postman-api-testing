@@ -1,18 +1,20 @@
 # Postman API Testing Project
 
-## Objective
-To practice API testing using Postman and demonstrate basic validation skills on public REST APIs.
+## Description
+This project demonstrates API testing using Postman on public REST APIs.
 
-## API Tested
+## APIs Tested
 - GET Users API
+- POST Create Post API
 
 ## Validations Performed
-- Verified HTTP status code (200 OK)
-- Checked response structure and user data
+- Status code validation (200, 201)
+- Request and response verification
 
 ## Evidence
-Execution screenshots are available in the screenshots folder.
+Screenshots of API execution are available in the screenshots folder.
 
 ## Tools Used
 - Postman
-- Public REST APIs (JSONPlaceholder)
+- JSONPlaceholder REST APIs
+
