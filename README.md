@@ -1,18 +1,18 @@
-# Postman API Testing
+# Postman API Testing Project
 
-## Overview
-This repository contains API testing practice performed using Postman on sample REST APIs.
+## Objective
+To practice API testing using Postman and demonstrate basic validation skills on public REST APIs.
 
-## What I Tested
-- GET APIs (user data)
-- POST APIs (login, create user)
-- Status code validation
-- Response body validation
+## API Tested
+- GET Users API
+
+## Validations Performed
+- Verified HTTP status code (200 OK)
+- Checked response structure and user data
+
+## Evidence
+Execution screenshots are available in the screenshots folder.
 
 ## Tools Used
 - Postman
-- REST APIs (dummy data)
-
-## Folder Structure
-- collections/ : Postman collections
-- screenshots/ : Execution proof
+- Public REST APIs (JSONPlaceholder)
