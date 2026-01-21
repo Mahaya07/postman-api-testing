@@ -25,6 +25,10 @@ Along with manual API testing using Postman, I use AI tools to strengthen my tes
 
 - Generating additional positive and negative test scenarios
 - Identifying missing validations in request headers and payloads
+
+📄 Sample AI prompt and QA review:  
+ai-prompts/api-test-scenario-generation.md
+
 - Reviewing API responses to detect edge cases
 - Improving clarity and structure of test documentation
 
